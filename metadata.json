@@ -1,0 +1,5 @@
+{
+  "name": "Product Extractor",
+  "description": "Upload an image to extract individual products along with their names and dimensions as separate images.",
+  "requestFramePermissions": []
+}
